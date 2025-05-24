@@ -728,6 +728,14 @@
     [
       "5d184ef1-151a-4114-9d49-de87ac832ddf",
       "Root"
+    ],
+    [
+      "a45e1c69-3791-47df-ae69-843b4205b620",
+      "USB"
+    ],
+    [
+      "ff01279d-20e0-401c-840f-7481298d2544",
+      "Inputs_outputs"
     ]
   ],
   "text_variables": {}
