@@ -3231,7 +3231,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24a0e757-3577-4e33-aa22-a1ad50d5666d")
-		(property "Reference" "S14"
+		(property "Reference" "S18"
 			(at 220.98 62.23 0)
 			(effects
 				(font
@@ -3419,7 +3419,7 @@
 		(instances
 			(project "final_macropad"
 				(path "/5d184ef1-151a-4114-9d49-de87ac832ddf/ff01279d-20e0-401c-840f-7481298d2544"
-					(reference "S14")
+					(reference "S18")
 					(unit 1)
 				)
 			)
@@ -5435,7 +5435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a324ca21-fadd-4bee-88e0-2c4ab01920cb")
-		(property "Reference" "S18"
+		(property "Reference" "S16"
 			(at 101.6 96.52 0)
 			(effects
 				(font
@@ -5487,7 +5487,7 @@
 		(instances
 			(project "final_macropad"
 				(path "/5d184ef1-151a-4114-9d49-de87ac832ddf/ff01279d-20e0-401c-840f-7481298d2544"
-					(reference "S18")
+					(reference "S16")
 					(unit 1)
 				)
 			)
@@ -5503,7 +5503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad782680-5698-4c71-aa14-47d3dfc7ef7c")
-		(property "Reference" "S15"
+		(property "Reference" "S13"
 			(at 62.23 96.52 0)
 			(effects
 				(font
@@ -5555,7 +5555,7 @@
 		(instances
 			(project "final_macropad"
 				(path "/5d184ef1-151a-4114-9d49-de87ac832ddf/ff01279d-20e0-401c-840f-7481298d2544"
-					(reference "S15")
+					(reference "S13")
 					(unit 1)
 				)
 			)
@@ -6019,7 +6019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2bc78f6-d595-45c3-b661-55e8debcae34")
-		(property "Reference" "S13"
+		(property "Reference" "S17"
 			(at 220.98 29.21 0)
 			(effects
 				(font
@@ -6207,7 +6207,7 @@
 		(instances
 			(project "final_macropad"
 				(path "/5d184ef1-151a-4114-9d49-de87ac832ddf/ff01279d-20e0-401c-840f-7481298d2544"
-					(reference "S13")
+					(reference "S17")
 					(unit 1)
 				)
 			)
@@ -6795,7 +6795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e84058cd-afbb-4f5b-bebb-4fa3a549b099")
-		(property "Reference" "S17"
+		(property "Reference" "S15"
 			(at 87.63 96.52 0)
 			(effects
 				(font
@@ -6847,7 +6847,7 @@
 		(instances
 			(project "final_macropad"
 				(path "/5d184ef1-151a-4114-9d49-de87ac832ddf/ff01279d-20e0-401c-840f-7481298d2544"
-					(reference "S17")
+					(reference "S15")
 					(unit 1)
 				)
 			)
@@ -6931,7 +6931,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9921573-40ce-4cec-800b-cba536ea099c")
-		(property "Reference" "S16"
+		(property "Reference" "S14"
 			(at 76.2 96.52 0)
 			(effects
 				(font
@@ -6983,7 +6983,7 @@
 		(instances
 			(project "final_macropad"
 				(path "/5d184ef1-151a-4114-9d49-de87ac832ddf/ff01279d-20e0-401c-840f-7481298d2544"
-					(reference "S16")
+					(reference "S14")
 					(unit 1)
 				)
 			)
