@@ -19773,6 +19773,19 @@
 		(layer "Edge.Cuts")
 		(uuid "f2afa843-96ae-4d40-bdef-f06519c2925e")
 	)
+	(gr_text "Mini Keeb by Megan Veldhuis"
+		(at 38 142.75 0)
+		(layer "F.SilkS")
+		(uuid "7ed35244-ac53-4a1b-a83c-5d738f07360f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 55.5175 44.3175)
 		(end 55.45 44.25)
