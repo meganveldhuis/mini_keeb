@@ -1,19 +1,19 @@
-,PART,AMT,PRICE per unit,PART PRICE,LINK
-"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10,D11, D12, D13, D14, D15, D16",SOD123 Diode,16,$0.15,$2.40,https://www.digikey.ca/en/products/detail/diodes-incorporated/BAV21W-7-F/717710
-"S17, S18",PEC16 rot encoder,2,$3.15,$6.30,https://www.digikey.ca/en/products/detail/bourns-inc/PEC16-4220F-S0024/3534239
-S1-S16,MX Switches,16,,$0.00,
-C1,1uF cap (0402),1,$0.12,$0.12,https://www.digikey.ca/en/products/detail/taiyo-yuden/JMK105BJ105KV-F/930583
-"C2, C3, C4",0.1uF cap (0402),3,$0.12,$0.36,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05B104KP5NNNC/3886660
-C5,10uF cap (0805),1,$0.21,$0.21,https://www.digikey.ca/en/products/detail/murata-electronics/GRM21BR61C106KE15K/2546903
-"C6, C7",22pF cap (0805),2,$0.15,$0.30,https://www.digikey.ca/en/products/detail/kemet/C0805C220J5GACTU/411112
-"C8, C9, C10, C11",100nF cap (0805),2,$0.47,$0.94,https://www.digikey.ca/en/products/detail/vishay-sprague/TMCP1D104MTRF/10107432
-U3,"OLED 128x64 (0.96"")",1,$12.00,$12.00,https://www.amazon.ca/128X64-Serial-Display-Module-White/dp/B075H4CSXF/ref=sr_1_4_sspa?crid=13OJAU3RX3KZP&dib=eyJ2IjoiMSJ9.h3rPawvVuLrTleKV7LlqfCbRzCyzWVE3xHyO_rqT71733aPKfvlnSgXrRErTIpvg2c1myoCcK5Rx4Q-vOGlzQz_3vAVOfTakmC-L5vtwPHL5BCzBbzAv9c5I76PZJdv8kkHHgw6WctPrAftzhyQaDK9672T0jtbEcu63StD-zI3O1JCE8UQUugLVykmjSVJiwmdXlVh0V0EAxwAA8DsNKzpxuLDe64t2zxZh829KoLAE1MMRPtSsymgW0502fAg-DqZrqU27r3Xul5iIaQTIn48Yke89vqq1vI80AT_NoQA.HtRHnpFfTYIXVaJpV7qg9-S1SPBcEtXE9AG8HdCuUZ4&dib_tag=se&keywords=OLED+128x64&qid=1747432800&sprefix=oled+128x64%2Caps%2C174&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
-"R1, R4, R7, R10",10k resistor (0805),3,$0.16,$0.48,https://www.digikey.ca/en/products/detail/susumu/RR1220P-103-D/432315
-"R5, R6, R8, R9",27k resistor (0805),2,$0.16,$0.32,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT27K0/1757886
-SW1,low-profile switch,1,$0.31,$0.00,https://www.digikey.ca/en/products/detail/alps-alpine/SKQGADE010/18109115
-U1,ATMega32U4-A,1,$8.30,$8.30,https://www.digikey.ca/en/products/detail/microchip-technology/ATMEGA32U4-AU/1914602
-J2,USB-C connector (Molex-2137160001),1,$2.12,$2.12,https://www.digikey.ca/en/models/13662558?_gl=1*3j8zrs*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw0LDBBhCnARIsAMpYlArhGROE6Nu_GFUf5X9HEnPdWILonEN9iazqrm54jGGsT7Hbh6PIiz8aAuuXEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLli5FEp8Y0aPoVrw3gARdDJhf
-Y1,16MHz crystal (SMD 3225-4pin),1,$0.61,$0.61,https://www.digikey.ca/en/products/detail/epson/TSX-3225-16-0000MF09Z-AC0/5260850
-U2,USBLC6-2SC6,1,$0.36,$0.36,https://www.digikey.ca/en/products/detail/stmicroelectronics/USBLC6-2SC6/1040559
-,,,,,
-,,,TOTAL,34.46,
+,PART,AMT,PRICE per unit,PART PRICE,LINK,
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10,D11, D12, D13, D14, D15, D16",SOD123 Diode,16,$0.15,$2.40,https://www.digikey.ca/en/products/detail/diodes-incorporated/BAV21W-7-F/717710,
+"S17, S18",PEC16 rot encoder,2,$3.15,$6.30,https://www.digikey.ca/en/products/detail/bourns-inc/PEC16-4220F-S0024/3534239,https://www.digikey.ca/en/products/detail/bourns-inc/PEC16-4220F-S0012/3780232 
+S1-S16,MX Switches,16,,$0.00,,
+C1,1uF cap (0402),1,$0.12,$0.12,https://www.digikey.ca/en/products/detail/taiyo-yuden/JMK105BJ105KV-F/930583,
+"C2, C3, C4",0.1uF cap (0402),3,$0.12,$0.36,https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05B104KP5NNNC/3886660,
+C5,10uF cap (0805),1,$0.21,$0.21,https://www.digikey.ca/en/products/detail/murata-electronics/GRM21BR61C106KE15K/2546903,
+"C6, C7",22pF cap (0805),2,$0.15,$0.30,https://www.digikey.ca/en/products/detail/kemet/C0805C220J5GACTU/411112,
+"C8, C9, C10, C11",100nF cap (0805),4,$0.47,$0.94,https://www.digikey.ca/en/products/detail/vishay-sprague/TMCP1D104MTRF/10107432,
+U3,"OLED 128x64 (0.96"")",1,$12.00,$12.00,https://www.amazon.ca/128X64-Serial-Display-Module-White/dp/B075H4CSXF/ref=sr_1_4_sspa?crid=13OJAU3RX3KZP&dib=eyJ2IjoiMSJ9.h3rPawvVuLrTleKV7LlqfCbRzCyzWVE3xHyO_rqT71733aPKfvlnSgXrRErTIpvg2c1myoCcK5Rx4Q-vOGlzQz_3vAVOfTakmC-L5vtwPHL5BCzBbzAv9c5I76PZJdv8kkHHgw6WctPrAftzhyQaDK9672T0jtbEcu63StD-zI3O1JCE8UQUugLVykmjSVJiwmdXlVh0V0EAxwAA8DsNKzpxuLDe64t2zxZh829KoLAE1MMRPtSsymgW0502fAg-DqZrqU27r3Xul5iIaQTIn48Yke89vqq1vI80AT_NoQA.HtRHnpFfTYIXVaJpV7qg9-S1SPBcEtXE9AG8HdCuUZ4&dib_tag=se&keywords=OLED+128x64&qid=1747432800&sprefix=oled+128x64%2Caps%2C174&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/326/5353680
+"R1, R4, R7, R10",10k resistor (0805),4,$0.16,$0.48,https://www.digikey.ca/en/products/detail/susumu/RR1220P-103-D/432315,
+"R5, R6, R8, R9",27k resistor (0805),4,$0.16,$0.32,https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF0805JT27K0/1757886,
+SW1,low-profile switch,1,$0.31,$0.00,https://www.digikey.ca/en/products/detail/alps-alpine/SKQGADE010/18109115,
+U1,ATMega32U4-A,1,$8.30,$8.30,https://www.digikey.ca/en/products/detail/microchip-technology/ATMEGA32U4-AU/1914602,
+J2,USB-C connector (Molex-2137160001),1,$2.12,$2.12,https://www.digikey.ca/en/products/detail/molex/2137160001/13662558?_gl=1*xvhq0c*_up*MQ..&gclid=Cj0KCQjw0LDBBhCnARIsAMpYlArhGROE6Nu_GFUf5X9HEnPdWILonEN9iazqrm54jGGsT7Hbh6PIiz8aAuuXEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLli5FEp8Y0aPoVrw3gARdDJhf,
+Y1,16MHz crystal (SMD 3225-4pin),1,$0.61,$0.61,https://www.digikey.ca/en/products/detail/epson/TSX-3225-16-0000MF09Z-AC0/5260850,
+U2,USBLC6-2SC6,1,$0.36,$0.36,https://www.digikey.ca/en/products/detail/stmicroelectronics/USBLC6-2SC6/1040559,
+,,,,,,
+,,,TOTAL,34.46,,
