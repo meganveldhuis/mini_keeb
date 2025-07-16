@@ -1,7 +1,11 @@
 {
   "board": {
     "active_layer": 4,
+<<<<<<< HEAD
     "active_layer_preset": "",
+=======
+    "active_layer_preset": "All Layers",
+>>>>>>> rotateMCU
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -49,7 +53,11 @@
       "conflict_shadows",
       "shapes"
     ],
+<<<<<<< HEAD
     "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffaf",
+=======
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+>>>>>>> rotateMCU
     "zone_display_mode": 0
   },
   "git": {
